@@ -1,0 +1,20 @@
+<?php
+return [
+    'merchant_registered'       => 'Merchant Registered Successfully',
+    'try_later'                 => 'Try Later',
+    'invalid_credential'        => 'Invalid Credentials',
+    'merchant_logged'           => 'Merchant Logged In Successfully',
+    'country_id_required'       => 'Country Id Is Required',
+    'data_retrieved'            => 'Data Retrieved Successfully',
+    'phone_verified'            => 'Phone number verified',
+    'otp_sent'                  => 'OTP Sent Successfully',
+    'invalid_otp_verification'  => 'Invalid verification code entered!',
+    'message_sent'              => 'Message Sent Successfully',
+    'not_found'                 => 'Not Found',
+    'something_went_wrong'      => 'Something Went Wrong',
+    'already_exists'            => 'Already Exists',
+    'added_successfully'        => 'Added Successfully',
+    'city_id_not_found'         => 'City ID Not Found In Database',
+    'payment_error'             => 'Payment Faild',
+    'payment_succes'            => 'Payment Succes',
+];
